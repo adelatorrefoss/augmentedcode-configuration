@@ -2,6 +2,9 @@
 
 Reusable AI agent configurations for development workflows. Designed for XP/TDD practitioners who want consistent, high-quality AI assistance.
 
+See this post for more info:
+[My Base Setup for Augmented Coding with AI](https://www.eferro.net/2025/11/my-base-setup-for-augmented-coding-with.html)
+
 ## Repository Structure
 
 ```
