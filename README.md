@@ -5,6 +5,19 @@ Reusable AI agent configurations for development workflows. Designed for XP/TDD 
 See this post for more info:
 [My Base Setup for Augmented Coding with AI](https://www.eferro.net/2025/11/my-base-setup-for-augmented-coding-with.html)
 
+## How to use it
+
+If you want to use this configuration yourself:
+
+- Fork or clone eferro/augmentedcode-configuration.
+- Adjust .agents/rules/base.md for your preferred language or conventions.
+- Point your IDE or CLI agents to those files.
+- Use .agents/rules/ai-feedback-learning-loop.md to help your agents reflect on sessions and evolve the rules.
+(During or after a session, I often run the AI Feedback Learning Loop by asking the agent to apply the ai-feedback-learning-loop.md so it can suggest improvements to the rules based on what we've learned.)
+- Experiment — see how it feels to work with a single, unified, and self-improving set of rules across AI tools.
+
+
+
 ## Repository Structure
 
 ```
