@@ -52,6 +52,11 @@ $ Extract knowledge and save it into `knowledge.md`  aka  "Hit save"
 $ Load `knowledge.md`
 
 
+## Patterns
+
+- generalist vs specialist
+- "Please look around and describe the arch of the proj to me on the highest level. Use ASCII diags where appropiate"
+
 
 
 ## Repository Structure
