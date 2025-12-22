@@ -17,48 +17,6 @@ If you want to use this configuration yourself:
 - Experiment — see how it feels to work with a single, unified, and self-improving set of rules across AI tools.
 
 
-## Other files
-
-### Summary
-
-#### Guides
-
-- kotlin_style.md
-
-#### Knowledge
-
-- approval_tests.md
-- commit_rules.md
-
-#### Playbooks
-
-- tdd.process.md
-- refactoring.process.md
-
-#### Maps & Knowledge
-
-- project.md
-- architecture.md
-- map.md
-- domain_knowledge.md
-
-#### todo
-
-- todo.md
-
-### knowledge.md
-
-$ Extract knowledge and save it into `knowledge.md`  aka  "Hit save"
-$ Load `knowledge.md`
-
-
-## Patterns
-
-- generalist vs specialist
-- "Please look around and describe the arch of the proj to me on the highest level. Use ASCII diags where appropiate"
-
-
-
 ## Repository Structure
 
 ```
