@@ -49,4 +49,4 @@ $ Load `knowledge.md`
 ## Patterns
 
 - generalist vs specialist
-- "Please look around and describe the arch of the proj to me on the highest level. Use ASCII diags where appropiate"
+- "Please look around and describe the architecture of the project to me on the highest level. Use ASCII diags where appropiate. Save to architecture.md"
